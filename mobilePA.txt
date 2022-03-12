@@ -1,0 +1,9 @@
+%=============================================================================
+
+Nome,                                     	RA,	Turma Mobile,	Turma PA
+João Vitor Uchôas Santos,			190350,	CP110TIN2,	PA038TIN3   
+Gabriel Hammermeister Mena Da Costa,	190162,	CP110TIN2,	PA038TIN3  
+Edgar Rosotti Navarro, 			180669,	CP110TIN2,	PA038TIN3   
+Leonardo Muhammed Batista,		190448,	CP110TIN2,	PA038TIN3  
+
+%=============================================================================
